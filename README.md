@@ -1,8 +1,10 @@
 ### Python Bot
 
 <p align="center">
-  <a href="//github.com/Elioking1/python-bot-example/commits/main"><img src="https://img.shields.io/github/last-commit/Elioking1/python-bot-example"></a>
-  <a href="//github.com/Elioking1/python-bot-example"><img src="https://img.shields.io/github/languages/code-size/Elioking1/python-bot-example"></a>
+  <a href="https//github.com/Elioking1/python-bot-example"><img src="https://i.imgur.com/Jov8H5y.png"></a>
+  <a href="https//github.com/Elioking1/python-bot-example/commits/main"><img src="https://img.shields.io/github/last-commit/Elioking1/python-bot-example"></a>
+  <a href="https//github.com/Elioking1/python-bot-example/issues"><img src="https://img.shields.io/github/issues-raw/Elioking1/python-bot-example"></a>
+  <a href="https//github.com/Elioking1/python-bot-example"><img src="https://img.shields.io/github/downloads/Elioking1/python-bot-example/total"></a>
 </p>
 
 This is an example of how to do a basic Discord Bot using Python. 
